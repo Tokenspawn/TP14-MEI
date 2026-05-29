@@ -1,11 +1,12 @@
 fileFormatVersion: 2
-guid: 0d7fb2efccb040a489e81d0254bc1a6a
+guid: 6aec845d6774e734abf79861b41c7a44
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: No Name
+    2100000: Moneda
+    2100002: CentroMoneda
     2300000: //RootNode
     3300000: //RootNode
     4300000: Cylinder
