@@ -13,7 +13,7 @@ public class PickUpObject : MonoBehaviour
         if (col.CompareTag("Coleccionable"))
         {
             contador++;
-            textoContador.text = "Objetos: " + contador;
+            textoContador.text = "Score: " + contador;
             Destroy(col.gameObject);
         }
     }
